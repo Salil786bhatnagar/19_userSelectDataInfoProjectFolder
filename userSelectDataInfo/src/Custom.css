@@ -1,0 +1,725 @@
+/* div#user-icon {
+    position: relative;
+    bottom: 38px;
+    left: 339%;
+}
+.main-container {
+    position: relative;
+    bottom: 634px;
+    left: 16%;
+} */
+
+.div-middilbar {
+    padding: 10px 0px 0px 0px;
+}
+.div-leftbar {
+    padding: 10px 0px 0px 0px;
+}
+.div-rightbar {
+    padding: 10px 0px 0px 0px;
+}
+
+/* div#righ-container {
+    height: 200%;
+    background: cadetblue;
+    color: aliceblue;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #5a5454;
+} */
+
+
+.div-navigation-bar ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 12px 12px 12px 12px;
+    margin: 0px 5px;
+    color: aliceblue;
+    /* border: 1px solid darkblue;
+    box-shadow: 3px 5px 9px black; */
+    /* position: relative;
+    top: 9px; */
+}
+span.span-img-logo {
+    border: 1px solid #fff;
+    border-radius: 27px;
+    padding: 11px 3px 15px 3px;
+}
+/* signup icon css*/
+div#user-icon {
+    position: relative;
+    bottom: 37px;
+    left: 333%;
+}
+
+.div-left {
+    float: left;
+    width: 20%;
+    background: #979191;
+    color: aliceblue;
+    border: 1px solid #ef966430;
+    height: 46rem;
+    position: relative;
+    margin-top: 5%;
+    border: 3px solid #353131;
+    box-shadow: -1px 8px 5px 1px #555;
+}
+.div-right {
+    float: right;
+    width: 80%;
+    background: #ededed;
+    border: 1px solid #ef966430;
+    height: 47rem;
+    position: relative;
+    bottom: 8px;
+    margin-top: 4%;
+}
+
+h3.div-dashbord {
+    background-color: #333435 !important;
+    padding: 16px 0px 20px 0px;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    color: #fff
+
+}
+
+.MuiGrid-container {
+    width: 100% !important;
+}
+
+.MuiGrid-spacing-xs-5 {
+    /* width: calc(100% + 40px); */
+    margin: 0px !important;
+}
+/* add grid  */
+.div-one-class {
+    width: 102%;
+}
+.div-two-class {
+    width: 102%;
+}
+.div-three-class {
+    width: 102%;
+}
+
+/* footer */
+
+.div-footer {
+    width: 101%;
+    padding-left: 0%;
+}
+
+div#paper-div {
+    min-height: 460px;
+}
+span#div-recent-Page {
+    min-height: 360px;
+}
+span#div-basic-Page {
+    min-height: 300px;
+}
+
+span#div-curretn-Page {
+    min-height: 300px;
+}
+
+/* sport */
+div#paper-div {
+    border: 1px solid #7a6060;
+    box-shadow: 1px 1px 6px 1px;
+}
+div#paper-div {
+    margin-top: 4px;
+}
+
+/* user detail page css */
+div#div-user-detail {
+    margin-top: 4px;
+}
+
+/* recent post css */
+div#div-recent-post {
+    margin-top: 4px;
+}
+
+/* add sport css */
+
+.div-sport-container {
+    margin-left: 2%;
+}
+
+span.span-textfield {
+    margin-right: 38%;
+}
+.div-input-img {
+    margin-right: 58%;
+}
+div#user-sport-img {
+    position: relative;
+    bottom: 36px;
+    left: 162%;
+}
+/* sport add css */
+.div-sport-main {
+    border: 1px solid indianred;
+}
+.div-sport-main {
+    border: 1px solid indianred;
+    background-color: #dce3e3;
+    color: black;
+    font-size: 16px;
+    margin: 1%;
+}
+span.span_reset {
+    margin: 4%;
+}
+span.span_reset-sport {
+    position: relative;
+    top: 273px;
+    left: 84%;
+}
+span.span-handle {
+    position: relative;
+    right: 6%;
+}
+
+/* main index page css start */
+img.img-blogImg {
+    position: absolute;
+    margin: 16px 16px 0px 16px;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+    background-color: #283B45 !important;
+    color: #fff;
+    position: fixed;
+    z-index: 1;
+    opacity: 0.9;
+}
+
+img.img-blogImg {
+    /* position: absolute;
+    margin: 30px 1px 0px 1px; */
+    /* position: absolute;
+    width: 99%; */
+    /* z-index: 1; */
+    /* position: absolute;
+    width: 100%; */
+}
+
+.div-menuIcon {
+    padding: 0px 35px;
+}
+
+span.span-bloguth ul li {
+    list-style: none;
+    display: inline;
+    padding: 4px;
+    /* color: #fff; */
+    font-weight: 500;
+}
+span.span-bloguth a {
+    text-decoration: none;
+    position: relative;
+    
+}
+span.span-bloguth a {
+    /* position: relative;
+    top: 7px;
+    color: #fff; */
+
+    position: relative;
+    top: 14px;
+    color: #fff;
+    font-family: 'Roboto Condensed',sans-serif;
+    font-weight: 700;
+    margin: 0;
+    font-size: 16px;
+    color: #fff;
+    margin-left: 5px;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.item-contain.css-1633um2-MuiPaper-root {
+    position: absolute;
+    width: 100%;
+    border: 1px solid #555;
+    box-shadow: 0px 12px 29px 10px #555;
+    padding: 0px;
+}
+
+/* span.span-bloguth a:hover {
+    color: #000;
+    background-color: #fff;
+} */
+img.login-bg {
+    width: 100%;
+    z-index: 1;
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+    /* top: -7%; */
+}
+
+img.reg-bg {
+    width: 100%;
+    z-index: 1;
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+    /* height: 286px; */
+}
+
+img.reg-bg {
+    width: 100%;
+    z-index: 1;
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+}
+
+img.reg-bg {
+    width: 100%;
+    z-index: 1;
+    position: absolute;
+    left: 0%;
+    bottom: -30%;
+    /* height: 112px; */
+}
+/* 404 error page */
+.div-notpage-found {
+    margin-top: 8%;
+}
+
+/* login bg image */
+/* img.img-auth-bgimg {
+    width: 100%;
+    margin: 1% 1%;
+    padding: 1% 1% 1% 1%;
+    height: 100%;
+} */
+
+.div0-recentpage {
+    background: burlywood;
+    margin: 1%;
+    border-radius: 1%;
+}
+.div1-basicpost {
+    background: burlywood;
+    margin: 1%;
+    border-radius: 1%;
+}
+.div2-currentpost {
+    background: burlywood;
+    margin: 1%;
+    border-radius: 1%;
+}
+span.span-span-list-text {
+    color: #444;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+span.span-span-list-text:hover {
+    color: #fff;
+}
+.makeStyles-paper-3 {
+    height: 145% !important;
+}
+.makeStyles-paper-7 {
+    height: 145% !important;
+}
+
+.div-btn-contain {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+    position: fixed !important;
+    height: 12% !important;
+}
+.div-btn-contain a:link {
+    text-decoration: none;
+    color:#fff;
+}
+.div-main-login {
+    padding: 90px 0px;
+}
+.div-reg-container {
+    padding: 90px 0px;
+}
+.div-reg-container {
+    padding: 90px 3px;
+    overflow: visible;
+}
+
+/* new css */
+span.span-clock {
+    position: relative;
+    left: 90%;
+    font-size: 16px;
+    font-weight: 800;
+    text-decoration: underline;
+}
+span.span-city {
+    position: absolute;
+    margin: 5% 2%;
+    /* padding: 11px 0px 0px 0px; */
+}
+span.span-state {
+    position: relative;
+    bottom: 31%;
+    right: 10%;
+    bottom: 2;
+    
+}
+.city-class {
+    width: 100px;
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    right: 60%;
+    margin: 23px 0px;
+
+}
+
+element.style {
+}
+span.span-input-city {
+    position: relative;
+    right: 70%;
+    top: 36px;
+}
+span.span-input-state {
+    position: relative;
+    right: 16%;
+}
+
+.MuiSelect-selectMenu {
+    width: 100px !important;
+}
+
+.slick-slider {
+    overflow-x: hidden !important;
+}
+
+.div-img-div {
+    position: relative;
+    top: 42%;
+    right: 114%;
+}
+.div-navbar ul li {
+    list-style: none;
+    float: left;
+    margin: 0px 20px;
+}
+.div-product-list1 {
+    display: -webkit-inline-box;
+    /* height: 250px; */
+}
+img.img-productlist1 {
+    margin: 10px 34px;
+    box-shadow: 0px 4px 9px 4px #ccc;
+}
+/* button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.click-btn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    margin-left: 24%;
+    margin-bottom: 10%;
+    background: cadetblue;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 10px 45px 10px 45px;
+} */
+/* add to card */
+button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.click-add_btn.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    margin-left: -1%;
+    margin-bottom: 12%;
+    background: #3c8b80ad;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    color: #fff;
+    padding: 11px 10px 11px 12px;
+}
+/* buy now button */
+button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.click-buy_btn.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    margin-left: 3%;
+    margin-bottom: 12%;
+    background: #3c8b80ad;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    color: #fff;
+    padding: 11px 10px 11px 12px;
+}
+/* .header {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+} */
+
+
+/* 03-03-2023 add new css e-card*/
+
+.flex-container {
+    /* margin-left: 2%; */
+    border: 1px solid;
+    margin: 2%;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 6px 6px 6px 6px #ccc;
+}
+.divLeftimg {
+    float: left;
+    width: 60%;
+    padding: 11px 0px 11px 0px;
+}
+.divRightname {
+    float: right;
+    width: 40%;
+    margin-top: 9%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3.h3-productCategories {
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: crimson;
+    font-size: 25px;
+}
+
+span.span-lit-categ {
+    position: absolute;
+    bottom: 493px;
+    padding: 0% 1%;
+    text-decoration: inherit;
+    color: darkgreen;
+}
+
+/* css singal product  */
+/* 
+.makeStyles-paper-2 {
+    height: 522px !important;
+    box-shadow: 2px 2px 9px 5px #ccc !important;
+    margin: 2% !important;
+} */
+
+.div-div-container {
+    /* margin-top: 0%; */
+    position: relative;
+    top: 0%;
+    /* box-shadow: 3px 7px 7px #555; */
+}
+
+span.span-product-heading {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: crimson;
+}
+span.span-product-price {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: darkcyan;
+    text-decoration: underline;
+}
+
+.span-shar-icon1 {
+    margin-left: 97%;
+  }
+
+  .MuiButtonBase-root.MuiButton-root.MuiButton-contained.btn-add-card.MuiButton-containedPrimary {
+    position: relative;
+    left: 38%;
+  }
+  span.span-img-product1 {
+    border: 1px solid #4a7a6b;
+    box-shadow: 5px 7px 7px #555;
+    border-radius: 20px;
+    background: #66808100;
+    margin-bottom: 12%;
+    padding: 45px 0px 45px 0px;
+}
+span.span-ecart-homepage a {
+    color: #fff;
+    background: black;
+    padding: 5px 10px 5px 10px;
+}
+span.span-ecart-homepage a:hover {
+    color: black;
+    background: aliceblue;
+    padding: 5px 10px 5px 10px;
+}
+span.span-ecart-homepage a:link {
+    text-decoration: none;
+}
+
+.div-navigation {
+    border: 1px solid #577555;
+    padding: 10px 0px 50px 0px;
+    background: #8f8f8fa3;
+}
+
+/* ------------------------------ new add css ---------------------  */
+
+.MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 0px !important;
+}
+
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.city-class {
+    position: relative !important;
+    top: 15px;
+}
+
+/* user header add css */
+.MuiAppBar-colorPrimary {
+    /* background-color: rgba(128, 112, 112, 0.278) !important; */
+    background: #A2adA1 !important;
+    color:#000 !important;
+    height: 86px !important;
+    /* position: fixed !important; */
+    margin: 0px 0px 0px 0px !important;
+}
+body {
+    /* background: #A2adA1 !important; */
+    background-color: rgba(128, 112, 112, 0.278) !important;
+}
+.main-div1 {
+    margin: 1%;
+    padding: 1%;
+}
+.main-div2 {
+    margin: 0%;
+    padding: 1%;
+}
+.main-div3 {
+    margin: 1%;
+    padding: 1%;
+}
+.span-sport-politics {
+    background: gainsboro;
+    padding: 4% 10% 4% 10%;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+.div-current-post {
+    background: gainsboro;
+    padding: 4% 10% 4% 10%;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.div-recent-post {
+    background: gainsboro;
+    padding: 4% 10% 4% 10%;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.div-update-post {
+    background: gainsboro;
+    padding: 4% 10% 4% 10%;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+span.span-timeDate {
+    margin: 0% 0% 0% 0%;
+    font-size: 12px;
+    color: darkcyan;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+span.span-sapn1 {
+    font-weight: 700;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 12px;
+    color: darkcyan;
+}
+span.span-sapn2 {
+    margin: 2%;
+    margin-left: -19px;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 12px;
+    color: darkcyan;
+}
+span.span-sapn3 {
+    margin-left: 14%;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 12px;
+    color: darkcyan;
+}
+span.span-span1-email {
+    position: relative;
+    left: 9%;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 12px;
+    color: darkcyan;
+}
+span.span-span1-contact {
+    position: relative;
+    left: 2%;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 12px;
+    color: darkcyan;
+}
+span.span-sapn3-address {
+    position: relative;
+    left: 2%;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 12px;
+    color: darkcyan;
+}
+span.span-info-heading {
+    font-size: 18px;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: #DCDCDC;
+    padding: 3% 20% 3% 20%;
+    border: 1px solid #777;
+}
+
+span.span-fullName {
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #fff;
+    border: 1px solid;
+    padding: 1% 8% 1% 8%;
+    border-radius: 6%;
+    background: #afacac;
+}
+.MuiTabs-root {
+    background: #DCDCDC !important;
+}
+h5.heading-container {
+    padding: 2%;
+    text-align: center;
+    position: relative;
+    top: 24px;
+    background: darkgrey;
+    border: 1px solid #777;
+    color: cornsilk;
+    font-size: 18px;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+/* admin dashoard icon */
+span.span-admin-icon {
+    position: absolute;
+    left: 8%;
+}
